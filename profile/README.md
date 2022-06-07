@@ -25,7 +25,7 @@ Essas sãos as tecnologias que utilizamos em nossos projetos:
 
 ### Siga-nos os bons!
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/company/evve-comunica%C3%A7%C3%A3o) [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white)](https://web.facebook.com/EvveComunicacao) [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](hhttps://www.instagram.com/evvecomunicacao/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/company/evve-comunica%C3%A7%C3%A3o) [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white)](https://web.facebook.com/EvveComunicacao) [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/evvecomunicacao/)
 
 <hr />
 
